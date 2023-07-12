@@ -15,4 +15,4 @@ jobs:
       - name: Run test.
         run:
           chmod +x test/test.sh
-          ./test.sh
+          test/test.sh
